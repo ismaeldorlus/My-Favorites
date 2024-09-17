@@ -1,0 +1,112 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: auto;
+  height: 1650px;
+  width: 700px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 25px;
+  color: white;
+  background-color: rgb(5, 7, 85);
+  border: 5px solid black;
+  border-radius: 50px;
+  background-image: url(evenbetterblue.jpg);
+}
+#jjkimg {
+  margin-left: 400px;
+}
+ul {
+  margin-top: -250px;
+}
+html {
+  background-color: darkblue;
+  background-image: url(bluespace.jpg);
+  background-size: cover;
+}
+#jjkbutton {
+  /* background-color: rgb(7, 107, 107); */
+  border: none;
+  padding: 15px;
+  text-align: center;
+  border-radius: 50px;
+  background-image: url(blue.jpg);
+}
+#link {
+  text-decoration: none;
+  color: lightskyblue;
+  font-size: 20px;
+}
+
+hr {
+  border: 7px solid rgb(162, 162, 255);
+  border-style: outset;
+}
+
+#number3 {
+  font-family: "Ewert";
+  font-weight: 1000;
+  font-style: normal;
+  color: rgb(255, 123, 0);
+  text-decoration: underline;
+}
+#number2 {
+  color: silver;
+  font-family: "Ewert";
+  font-weight: 1000;
+  font-style: normal;
+
+  text-decoration: underline;
+}
+
+#hr {
+  margin-top: 130px;
+}
+
+#legoat {
+  margin-left: 370px;
+  width: 400px;
+}
+
+#number1 {
+  font-family: "Ewert";
+  font-weight: 1000;
+  font-style: normal;
+  color: gold;
+  text-decoration: underline;
+}
+
+#ul1 {
+  margin-top: 50px;
+}
+
+#trophy {
+  width: 50px;
+}
+
+#heart {
+  width: 50px;
+}
+
+#nba {
+  border: none;
+  padding: 15px;
+  text-align: center;
+  border-radius: 50px;
+  background-image: url(blue.jpg);
+}
+
+#nbalink {
+  text-decoration: none;
+  color: lightskyblue;
+  font-size: 20px;
+}
+
+#love {
+  font-family: "Lovers Quarrel";
+  font-weight: 600px;
+  font-size: 30px;
+}
+
+.black {
+  color: black;
+}
